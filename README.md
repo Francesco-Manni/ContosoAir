@@ -2,6 +2,7 @@
 
 [![Build Status](https://dev.azure.com/frmanni/ContosoAir/_apis/build/status/Francesco-Manni.ContosoAir?branchName=master)](https://dev.azure.com/frmanni/ContosoAir/_build/latest?definitionId=3&branchName=master)
 
+
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
